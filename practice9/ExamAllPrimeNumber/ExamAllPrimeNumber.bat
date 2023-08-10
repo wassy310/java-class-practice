@@ -1,0 +1,1 @@
+java ExamAllPrimeNumber 100

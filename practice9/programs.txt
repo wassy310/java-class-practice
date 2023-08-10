@@ -1,0 +1,6 @@
+ExamAllPrimeNumber
+ExamPrimeFactor
+ExamGCD
+ExamLCM
+ExamBubbleSort
+ExamChuuKannchi

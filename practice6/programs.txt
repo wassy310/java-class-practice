@@ -1,0 +1,10 @@
+ExamAbs
+ExamOddEven
+ExamAtari
+ExamAscendingOrder
+ExamAdmissionFee
+ExamRank
+ExamDayOfWeek
+ExamTaxi
+ExamLeapYear
+ExamQuadraticEquation
